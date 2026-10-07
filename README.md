@@ -12,7 +12,8 @@ possible alts:
 ## Description
 ## MVP (Minimally Viable Product)
 - Hiking App. Presents the user w/ a search box that ask their zip code. Performs a search for trails (extra: within a certain radius of that zip). Site returns several trails within that zip. 
-
+## My Contributions
+I contributed CSS styling and JavaScript development to this collaborative project. I also helped coordinate the creation and assignment of GitHub issues.
 ## Added Bonuses
 - If user selects trail, they can add comments, make a profile, give rating (all stored in Firebase).
 - About the team page (footer);
